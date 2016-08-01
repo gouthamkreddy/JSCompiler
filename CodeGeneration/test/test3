@@ -1,0 +1,8 @@
+=, a, 2
+=, b, 0
+-, b, a
+address, c, b
+pointer, c, c
+print, b
+print, c
+ret

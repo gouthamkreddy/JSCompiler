@@ -1,0 +1,10 @@
+=, a, 2
+=, b, 7
++, a, b
+=, k, 50
+ifgoto, jle, a, k, 2
+call, foo
+ret
+label, foo
+print, a
+ret

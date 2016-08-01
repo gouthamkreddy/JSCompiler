@@ -1,0 +1,19 @@
+=, a, 5
+=, b, 2
+*, a, b
+print, a
+print, b
+/, a, b
+print, a
+print, b
+call, mod
+print, a
+call, mul
+print, a
+ret
+label, mul
+*, b, a
+ret
+label, mod
+%, a, b
+ret

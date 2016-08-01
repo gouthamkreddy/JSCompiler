@@ -1,0 +1,36 @@
+Make changes by putting bracket in the definition of assignment and reassignment Ex. (((a = 3)));
+
+Make error types meaning that in the statement we will make the case when the semi colon is missing.
+
+We did not write the hint part of the code.
+
+The BINNOT statement is only on one operator
+
+In the base types we did not add the undefines terminal
+
+In the definition of arralylist we will add 
+			arraydecl COMMA arraylist
+
+Do not forget to remove the F work in the code
+
+In the console.log statement we will need to add the statement of printlist because we do not have expression COMMA expression derivation.
+
+We need to add the typeof statement in the expression .
+		expression : TYPEOF expression
+
+Need to implement the exponent operator.
+
+output.insert(0, p.slice)- This statement was not written in some places.
+
+If the input file only has ; then the code is not working.
+
+
+
+
+
+Should we include ID = ID also in the statement.
+Can Statements be empty
+
+
+
+

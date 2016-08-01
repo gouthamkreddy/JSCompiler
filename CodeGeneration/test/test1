@@ -1,0 +1,19 @@
+=, a, 5
+=, b, 2
++, a, b
+print, a
+print, b
+-, a, b
+print, a
+print, b
+call, sum
+print, a
+call, diff
+print, a
+ret
+label, diff
+-, a, b
+ret
+label, sum
++, a, b
+ret
